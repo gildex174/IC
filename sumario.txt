@@ -1,0 +1,4 @@
+Nesse arquivo irei gardar uma breve descrição dos códigos usados.
+Será útil para a organização da pasta.
+
+01. 
